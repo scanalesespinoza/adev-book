@@ -143,9 +143,9 @@ After this chapter, the reader can separate capability from authority; define au
 
 ## Bridge to Practice
 
-- [`framework/hardness/04-action-risk-authority-model.md`](../../framework/hardness/04-action-risk-authority-model.md) provides a reusable classification of effects, approvals, and evidence.
-- [`framework/hardness/01-policy-and-precedence.md`](../../framework/hardness/01-policy-and-precedence.md) resolves conflicts among policies and authorities.
-- [`framework/hardness/03-human-expectations-contract.md`](../../framework/hardness/03-human-expectations-contract.md) turns intent, scope, and uncertainty into a verifiable contract.
+- [`hardness/04-action-risk-authority-model.md`](../../hardness/04-action-risk-authority-model.md) provides a reusable classification of effects, approvals, and evidence.
+- [`hardness/01-policy-and-precedence.md`](../../hardness/01-policy-and-precedence.md) resolves conflicts among policies and authorities.
+- [`hardness/03-human-expectations-contract.md`](../../hardness/03-human-expectations-contract.md) turns intent, scope, and uncertainty into a verifiable contract.
 - [`starter-kit/BASELINE_template.json`](../../starter-kit/BASELINE_template.json) brings boundaries and requirements into the repository.
 
 ## Security References

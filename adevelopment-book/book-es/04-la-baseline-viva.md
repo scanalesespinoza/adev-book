@@ -207,5 +207,5 @@ Al terminar este capítulo, el lector puede utilizar `ADEV.md` como mapa de prin
 
 - [`ADEV.md`](../../ADEV.md) es la baseline normativa del repositorio y demuestra el modelo de principios con precedencia.
 - [`starter-kit/BASELINE_template.json`](../../starter-kit/BASELINE_template.json) ofrece una semilla legible por máquinas.
-- [`framework/hardness/01-policy-and-precedence.md`](../../framework/hardness/01-policy-and-precedence.md) desarrolla autoridad y resolución de conflictos.
+- [`hardness/01-policy-and-precedence.md`](../../hardness/01-policy-and-precedence.md) desarrolla autoridad y resolución de conflictos.
 - [`docs/evidence-index.md`](../../docs/evidence-index.md) organiza las señales disponibles y mantiene explícita la diferencia entre artefactos observados y resultados inferidos.

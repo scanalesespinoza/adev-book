@@ -217,7 +217,7 @@ Al terminar este capítulo, el lector puede evaluar ADEV sin idealización; reco
 ## Puente a la práctica
 
 - [`docs/research-agenda.md`](../../docs/research-agenda.md) convierte las preguntas abiertas en un backlog de evidencia.
-- [`framework/evidence/README.md`](../../framework/evidence/README.md) define la cadena de prueba preferida.
-- [`framework/hardness/00-definition-and-scope.md`](../../framework/hardness/00-definition-and-scope.md) aclara qué puede y qué no puede prometer un agente endurecido.
-- [`framework/hardness/07-compatibility-layer.md`](../../framework/hardness/07-compatibility-layer.md) separa doctrina portable de adaptadores específicos.
+- [`evidence/README.md`](../../evidence/README.md) define la cadena de prueba preferida.
+- [`hardness/00-definition-and-scope.md`](../../hardness/00-definition-and-scope.md) aclara qué puede y qué no puede prometer un agente endurecido.
+- [`hardness/07-compatibility-layer.md`](../../hardness/07-compatibility-layer.md) separa doctrina portable de adaptadores específicos.
 - [`docs/adoption-maturity-model.md`](../../docs/adoption-maturity-model.md) permite aumentar la capacidad de manera gradual.

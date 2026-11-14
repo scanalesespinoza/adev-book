@@ -15,7 +15,7 @@ Repository counts below describe ADEV itself. They are not operational proof of 
 
 | Surface | Canonical location | Verifiable inventory |
 | --- | --- | --- |
-| ADEV practice | [`ADEV.md`](../ADEV.md), [`framework/`](../framework/) | Doctrine, knowledge map, practices, definitions, and four Hardness documents |
+| ADEV practice | [`ADEV.md`](../ADEV.md), [``](../) | Doctrine, knowledge map, practices, definitions, and four Hardness documents |
 | Book | [`adevelopment-book/book/`](../adevelopment-book/book/), [`Book.txt`](../adevelopment-book/book/Book.txt) | 18 manifest entries; 5,967 words in manifest order |
 | Evidence | [`docs/evidence-index.md`](../docs/evidence-index.md), [`docs/case-studies/`](../docs/case-studies/), [Homedir source repository](https://github.com/scanalesespinoza/homedir) | Evidence index plus eight case-study files; the files are an ADEV inventory, while Homedir is the canonical operational source |
 | Starter kit | [`starter-kit/`](../starter-kit/) | 11 tracked Markdown assets |
@@ -52,7 +52,7 @@ $bookFiles = $manifest | ForEach-Object { "adevelopment-book/book/$_.md" }
   Where-Object Name -ne 'README.md').Count
 
 (git ls-files 'starter-kit/*.md').Count
-(git ls-files 'framework/hardness/*.md').Count
+(git ls-files 'hardness/*.md').Count
 ```
 
 ## Editorial implications

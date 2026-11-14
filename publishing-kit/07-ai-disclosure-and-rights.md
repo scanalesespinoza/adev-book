@@ -14,7 +14,7 @@ The disclosure appears in the Spanish [`00-portada.md`](../adevelopment-book/boo
 
 - Editorial source: the ordered Markdown files in [`book-es/Book.txt`](../adevelopment-book/book-es/Book.txt).
 - English adaptation source: the ordered Markdown files in [`book-en/Book.txt`](../adevelopment-book/book-en/Book.txt), derived from Spanish tag `v2.0.0` at commit `061425611c19a55faea90bdcd94bf99e5beb4894`.
-- Normative technical source: [`ADEV.md`](../ADEV.md), `framework/`, and `starter-kit/`.
+- Normative technical source: [`ADEV.md`](../ADEV.md), ``, and `starter-kit/`.
 - Evidence boundary: the case studies and evidence records linked by the manuscript and its Appendix C.
 - Generated objects: `adev-book.pdf` and `adev-book.epub`; generated files are not the editorial source of truth.
 

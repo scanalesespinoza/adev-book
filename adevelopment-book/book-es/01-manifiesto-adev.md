@@ -142,7 +142,7 @@ Al terminar este capítulo, el lector puede explicar ADEV sin recurrir a promesa
 
 ## Puente a la práctica
 
-- La [práctica normativa de ADEV](../../framework/README.md) contiene las definiciones y contratos portables que sostienen el libro.
+- La [práctica normativa de ADEV](../../README.md) contiene las definiciones y contratos portables que sostienen el libro.
 - El [starter kit](../../starter-kit/README.md) convierte esos principios en un recorrido aplicable a repositorios reales.
 - El [índice de evidencia](../../docs/evidence-index.md) separa la doctrina transferible de los artefactos concretos que la respaldan.
 

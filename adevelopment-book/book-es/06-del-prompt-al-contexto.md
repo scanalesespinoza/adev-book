@@ -201,6 +201,6 @@ Al terminar este capítulo, el lector puede reconocer deuda de contexto; separar
 
 ## Puente a la práctica
 
-- [`framework/hardness/06-agent-consumption-guide.md`](../../framework/hardness/06-agent-consumption-guide.md) describe cómo un agente descubre y consume contratos del repositorio.
-- [`framework/hardness/02-skill-contract-template.md`](../../framework/hardness/02-skill-contract-template.md) ofrece una estructura neutral para capacidades reutilizables.
+- [`hardness/06-agent-consumption-guide.md`](../../hardness/06-agent-consumption-guide.md) describe cómo un agente descubre y consume contratos del repositorio.
+- [`hardness/02-skill-contract-template.md`](../../hardness/02-skill-contract-template.md) ofrece una estructura neutral para capacidades reutilizables.
 - [`starter-kit/examples/minimal-adev-loop/prompts/iteration-01.md`](../../starter-kit/examples/minimal-adev-loop/prompts/iteration-01.md) muestra una instrucción pequeña conectada con una baseline y un roadmap.

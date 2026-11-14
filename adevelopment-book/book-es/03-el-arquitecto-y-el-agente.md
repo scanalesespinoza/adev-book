@@ -164,6 +164,6 @@ Al terminar este capítulo, el lector puede distinguir ejecución de autoridad; 
 
 ## Puente a la práctica
 
-- [`framework/hardness/03-human-expectations-contract.md`](../../framework/hardness/03-human-expectations-contract.md) convierte expectativas humanas en un contrato consumible.
-- [`framework/hardness/04-action-risk-authority-model.md`](../../framework/hardness/04-action-risk-authority-model.md) relaciona riesgo y autoridad de ejecución.
+- [`hardness/03-human-expectations-contract.md`](../../hardness/03-human-expectations-contract.md) convierte expectativas humanas en un contrato consumible.
+- [`hardness/04-action-risk-authority-model.md`](../../hardness/04-action-risk-authority-model.md) relaciona riesgo y autoridad de ejecución.
 - [`starter-kit/DECISION_LOG.md`](../../starter-kit/DECISION_LOG.md) permite conservar decisiones y reversiones fuera de conversaciones temporales.

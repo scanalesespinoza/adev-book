@@ -30,44 +30,44 @@ Not every document carries the same weight. Identify its category before applyin
 
 The canonical entry point is [`ADEV.md`](../../../ADEV.md). From there, the agent locates applicable sources. A file closer to a task may specialize behavior, but should not silently contradict a higher-authority restriction.
 
-When two rules appear incompatible, use the [policy and precedence model](../../../framework/hardness/01-policy-and-precedence.md). If a material conflict remains, stop the affected action and request a decision.
+When two rules appear incompatible, use the [policy and precedence model](../../../hardness/01-policy-and-precedence.md). If a material conflict remains, stop the affected action and request a decision.
 
 ## Framework Map
 
-The [`framework/`](../../../framework/) directory organizes the practice into canonical shelves.
+The [``](../../../) directory organizes the practice into canonical shelves.
 
 ### Doctrine
 
-[Doctrine](../../../framework/doctrine/README.md) answers which principles govern ADEV. Its primary source is `ADEV.md`.
+[Doctrine](../../../doctrine/README.md) answers which principles govern ADEV. Its primary source is `ADEV.md`.
 
 Use it to orient a new baseline, assess compatibility of local practices, identify non-negotiable delivery and evidence rules, and extract transferable lessons from a project. Stack, command, and environment preferences belong in overlays when they are only locally meaningful.
 
 ### Definitions
 
-[Definitions](../../../framework/definitions/README.md) preserve shared distinctions among doctrine, policy, practice, skill, evidence, and overlay. Consult them when one word is being used for different objects. Precision prevents advice from becoming obligation or a particular case from becoming principle.
+[Definitions](../../../definitions/README.md) preserve shared distinctions among doctrine, policy, practice, skill, evidence, and overlay. Consult them when one word is being used for different objects. Precision prevents advice from becoming obligation or a particular case from becoming principle.
 
 ### Practices
 
-[Practices](../../../framework/practices/README.md) are repeatable patterns, including the quality cycle, operating rituals, and first adoption path. Adapt them to risk. A practice becomes mandatory only when a policy or local baseline says so and defines how compliance is demonstrated.
+[Practices](../../../practices/README.md) are repeatable patterns, including the quality cycle, operating rituals, and first adoption path. Adapt them to risk. A practice becomes mandatory only when a policy or local baseline says so and defines how compliance is demonstrated.
 
 ### Evidence
 
-The [evidence shelf](../../../framework/evidence/README.md) connects expectations, decisions, actions, validation, and reusable learning. Use it to trace claims, distinguish public artifacts from recollection, record metric boundaries, and decide whether an observation is ready for doctrine. Project-specific evidence can teach a pattern without requiring its implementation to be copied.
+The [evidence shelf](../../../evidence/README.md) connects expectations, decisions, actions, validation, and reusable learning. Use it to trace claims, distinguish public artifacts from recollection, record metric boundaries, and decide whether an observation is ready for doctrine. Project-specific evidence can teach a pattern without requiring its implementation to be copied.
 
 ### Hardness
 
-[`framework/hardness/`](../../../framework/hardness/) governs the agent-facing part of ADEV. Its central question is whether a person can anticipate and audit what an agent will do, under which authority, and with what evidence.
+[`hardness/`](../../../hardness/) governs the agent-facing part of ADEV. Its central question is whether a person can anticipate and audit what an agent will do, under which authority, and with what evidence.
 
 The recommended path is:
 
-1. [Definition and scope](../../../framework/hardness/00-definition-and-scope.md).
-2. [Policy and precedence](../../../framework/hardness/01-policy-and-precedence.md).
-3. [Skill contract](../../../framework/hardness/02-skill-contract-template.md).
-4. [Human expectations contract](../../../framework/hardness/03-human-expectations-contract.md).
-5. [Action risk and authority model](../../../framework/hardness/04-action-risk-authority-model.md).
-6. [Policy schema and fixtures](../../../framework/hardness/05-policy-schema-and-fixtures.md).
-7. [Agent consumption guide](../../../framework/hardness/06-agent-consumption-guide.md).
-8. [Compatibility layer](../../../framework/hardness/07-compatibility-layer.md).
+1. [Definition and scope](../../../hardness/00-definition-and-scope.md).
+2. [Policy and precedence](../../../hardness/01-policy-and-precedence.md).
+3. [Skill contract](../../../hardness/02-skill-contract-template.md).
+4. [Human expectations contract](../../../hardness/03-human-expectations-contract.md).
+5. [Action risk and authority model](../../../hardness/04-action-risk-authority-model.md).
+6. [Policy schema and fixtures](../../../hardness/05-policy-schema-and-fixtures.md).
+7. [Agent consumption guide](../../../hardness/06-agent-consumption-guide.md).
+8. [Compatibility layer](../../../hardness/07-compatibility-layer.md).
 
 Hardness is an emerging foundation, not a certification or guarantee of deterministic behavior.
 
@@ -77,9 +77,9 @@ Hardness is an emerging foundation, not a certification or guarantee of determin
 | --- | --- | --- |
 | Start ADEV in a repository | [`starter-kit/DAY_0.md`](../../../starter-kit/DAY_0.md) | Skeleton for context, work, and evidence |
 | Seed a machine-readable baseline | [`starter-kit/BASELINE_template.json`](../../../starter-kit/BASELINE_template.json) | Adapted sources, non-negotiables, authority, and validation |
-| Clarify an ambiguous request | [Expectations contract](../../../framework/hardness/03-human-expectations-contract.md) | Intent, scope, acceptance, uncertainty, and stop conditions |
-| Decide whether an agent may act | [Authority model](../../../framework/hardness/04-action-risk-authority-model.md) | Effect class, approval, evidence, and escalation |
-| Create a reusable capability | [Skill template](../../../framework/hardness/02-skill-contract-template.md) | Trigger, permissions, effects, invariants, and validation |
+| Clarify an ambiguous request | [Expectations contract](../../../hardness/03-human-expectations-contract.md) | Intent, scope, acceptance, uncertainty, and stop conditions |
+| Decide whether an agent may act | [Authority model](../../../hardness/04-action-risk-authority-model.md) | Effect class, approval, evidence, and escalation |
+| Create a reusable capability | [Skill template](../../../hardness/02-skill-contract-template.md) | Trigger, permissions, effects, invariants, and validation |
 | Record a decision | [`starter-kit/DECISION_LOG.md`](../../../starter-kit/DECISION_LOG.md) | Rationale, alternatives, state, and future review |
 | Prepare and review an iteration | [`starter-kit/QUALITY_CYCLE_checklist.md`](../../../starter-kit/QUALITY_CYCLE_checklist.md) | Proportional evidence across creation and verification |
 | Learn from failure | [`starter-kit/OPERATING_RITUALS.md`](../../../starter-kit/OPERATING_RITUALS.md) | Classification, containment, and durable improvement |
@@ -124,11 +124,11 @@ A skill is not merely a stored prompt. It is a capability contract. Before using
 
 A skill cannot expand the authority granted by a person or weaken a higher policy. If it can perform an operation but the objective does not authorize it, it must abstain.
 
-The repository includes a [read-only inspection skill](../../../framework/hardness/skills/adev-read-only-inspection/SKILL.md) as an initial reference. It is a reviewable example, not proof that every runtime behaves identically or a sufficient contract for write or publication effects.
+The repository includes a [read-only inspection skill](../../../hardness/skills/adev-read-only-inspection/SKILL.md) as an initial reference. It is a reviewable example, not proof that every runtime behaves identically or a sufficient contract for write or publication effects.
 
 ## Policies and Structural Validation
 
-The [policy schema](../../../framework/hardness/policy-schema.json) checks for fields such as authority, scope, precedence, evidence, owner, and review.
+The [policy schema](../../../hardness/policy-schema.json) checks for fields such as authority, scope, precedence, evidence, owner, and review.
 
 Structural validation answers whether a record has the expected form. It does not establish that the policy is correct, the runtime will enforce it, the agent will behave as expected, or operational evidence exists. Fixtures and local scripts detect incomplete contracts; behavioral evaluation and real observation supply the remaining layers.
 
@@ -161,8 +161,8 @@ After finishing the book:
 1. Follow [`starter-kit/DAY_0.md`](../../../starter-kit/DAY_0.md).
 2. Copy and adapt [`starter-kit/BASELINE_template.json`](../../../starter-kit/BASELINE_template.json).
 3. Compare your structure with the [minimal example](../../../starter-kit/examples/minimal-adev-loop/).
-4. Define a request with the [expectations contract](../../../framework/hardness/03-human-expectations-contract.md).
-5. Classify its effect with the [authority model](../../../framework/hardness/04-action-risk-authority-model.md).
+4. Define a request with the [expectations contract](../../../hardness/03-human-expectations-contract.md).
+5. Classify its effect with the [authority model](../../../hardness/04-action-risk-authority-model.md).
 6. Run the [quality cycle](../../../starter-kit/QUALITY_CYCLE_checklist.md).
 7. Close the first delivery with [`FIRST_RELEASE.md`](../../../starter-kit/FIRST_RELEASE.md).
 8. Record the learning on the appropriate shelf.

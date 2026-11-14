@@ -121,12 +121,12 @@ Supporting theses:
 | Book chapter | Technical counterpart |
 | --- | --- |
 | 2. Software as habitat | Product knowledge contract to be added in a later starter-kit iteration |
-| 3. Architect and agent | `framework/hardness/03-human-expectations-contract.md`, `04-action-risk-authority-model.md` |
-| 4. Living baseline | `ADEV.md`, `starter-kit/BASELINE_template.json`, `framework/definitions/README.md` |
+| 3. Architect and agent | `hardness/03-human-expectations-contract.md`, `04-action-risk-authority-model.md` |
+| 4. Living baseline | `ADEV.md`, `starter-kit/BASELINE_template.json`, `definitions/README.md` |
 | 5. Atomic iterations | `starter-kit/examples/minimal-adev-loop/`, `starter-kit/OPERATING_RITUALS.md` |
-| 6. Prompt to context | Compatibility and skill contracts under `framework/hardness/` |
+| 6. Prompt to context | Compatibility and skill contracts under `hardness/` |
 | 7. Create, verify, demonstrate | `starter-kit/QUALITY_CYCLE_checklist.md`, `FIRST_RELEASE.md` |
-| 8. Autonomy and security | `framework/hardness/01-policy-and-precedence.md`, `04-action-risk-authority-model.md`, policy schema |
+| 8. Autonomy and security | `hardness/01-policy-and-precedence.md`, `04-action-risk-authority-model.md`, policy schema |
 | 9. Teams and agents | Repository collaboration rules in `ADEV.md` and operating rituals |
 | 10. EventFlow | Public EventFlow artifacts; reproducibility asset still required |
 | 11. Homedir | `docs/evidence-index.md`, `docs/case-studies/` |
