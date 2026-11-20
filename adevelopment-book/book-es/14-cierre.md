@@ -145,7 +145,7 @@ Ahí comienza ADEV.
 
 ## Primera acción
 
-Abre [`starter-kit/DAY_0.md`](../../starter-kit/DAY_0.md), elige tu repositorio y completa hoy el esqueleto mínimo. Luego utiliza [`starter-kit/examples/minimal-adev-loop/`](../../starter-kit/examples/minimal-adev-loop/) para recorrer una sola iteración hasta su verificación.
+Abre [`starter-kit/DAY_0.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DAY_0.md), elige tu repositorio y completa hoy el esqueleto mínimo. Luego utiliza [`starter-kit/examples/minimal-adev-loop/`](https://github.com/scanalesespinoza/adev/tree/340f705/framework/starter-kit/examples/minimal-adev-loop) para recorrer una sola iteración hasta su verificación.
 
 No cierres el ciclo con “el agente terminó”. Ciérralo con una evidencia que otra persona pueda comprender.
 

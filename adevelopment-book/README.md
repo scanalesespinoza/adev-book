@@ -1,6 +1,6 @@
 # ADEV Book and Collateral
 
-> This directory contains the manuscript sources and reusable collateral for the ADEV book. The canonical first-edition development track is the Spanish manuscript in [`book-es/`](book-es/README.md). The existing English manuscript in [`book/`](book/INDEX.md) is retained as a historical source for selective reuse, not as the translation source of record. The normative, English-language practice remains in [``](../README.md).
+> This directory contains the manuscript sources and reusable collateral for the ADEV book. The canonical first-edition development track is the Spanish manuscript in [`book-es/`](book-es/README.md). The existing English manuscript in [`book/`](book/INDEX.md) is retained as a historical source for selective reuse, not as the translation source of record. The normative, English-language practice remains in [A-Dev](https://github.com/scanalesespinoza/adev/blob/340f705/framework/README.md).
 
 ## First edition in Spanish
 

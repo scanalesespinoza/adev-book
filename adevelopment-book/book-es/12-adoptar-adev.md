@@ -268,9 +268,9 @@ Al terminar este capítulo, el lector puede diagnosticar el punto de partida; el
 
 ## Puente a la práctica
 
-- [`starter-kit/DAY_0.md`](../../starter-kit/DAY_0.md) establece el esqueleto inicial.
-- [`starter-kit/FIRST_WEEK.md`](../../starter-kit/FIRST_WEEK.md) guía el primer ciclo completo.
-- [`starter-kit/FIRST_RELEASE.md`](../../starter-kit/FIRST_RELEASE.md) organiza evidencia y recuperación de la primera entrega.
-- [`starter-kit/BASELINE_template.json`](../../starter-kit/BASELINE_template.json) ofrece una semilla neutral que debe adaptarse.
-- [`starter-kit/examples/minimal-adev-loop/`](../../starter-kit/examples/minimal-adev-loop/) muestra una estructura mínima y agnóstica.
-- [`docs/adoption-maturity-model.md`](../../docs/adoption-maturity-model.md) ayuda a identificar la siguiente capacidad faltante.
+- [`starter-kit/DAY_0.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DAY_0.md) establece el esqueleto inicial.
+- [`starter-kit/FIRST_WEEK.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/FIRST_WEEK.md) guía el primer ciclo completo.
+- [`starter-kit/FIRST_RELEASE.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/FIRST_RELEASE.md) organiza evidencia y recuperación de la primera entrega.
+- [`starter-kit/BASELINE_template.json`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/BASELINE_template.json) ofrece una semilla neutral que debe adaptarse.
+- [`starter-kit/examples/minimal-adev-loop/`](https://github.com/scanalesespinoza/adev/tree/340f705/framework/starter-kit/examples/minimal-adev-loop) muestra una estructura mínima y agnóstica.
+- [`docs/adoption-maturity-model.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/adoption-maturity-model.md) ayuda a identificar la siguiente capacidad faltante.

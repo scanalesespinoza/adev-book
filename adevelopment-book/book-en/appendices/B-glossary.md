@@ -140,7 +140,7 @@ A transfer of work among people, agents, or sessions. It records the objective, 
 
 ### Hardness
 
-The degree to which agent behavior is bounded by explicit expectations, authority, policies, limited capabilities, and observable verification. It does not mean infallibility or total determinism. See the [technical definition](../../../hardness/00-definition-and-scope.md).
+The degree to which agent behavior is bounded by explicit expectations, authority, policies, limited capabilities, and observable verification. It does not mean infallibility or total determinism. See the [technical definition](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/00-definition-and-scope.md).
 
 ## I
 

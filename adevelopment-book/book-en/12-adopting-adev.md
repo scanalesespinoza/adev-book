@@ -268,9 +268,9 @@ After this chapter, the reader can diagnose the starting point; choose a low-ris
 
 ## Bridge to Practice
 
-- [`starter-kit/DAY_0.md`](../../starter-kit/DAY_0.md) establishes the initial skeleton.
-- [`starter-kit/FIRST_WEEK.md`](../../starter-kit/FIRST_WEEK.md) guides the first complete cycle.
-- [`starter-kit/FIRST_RELEASE.md`](../../starter-kit/FIRST_RELEASE.md) organizes evidence and recovery for the first delivery.
-- [`starter-kit/BASELINE_template.json`](../../starter-kit/BASELINE_template.json) provides a neutral seed that must be adapted.
-- [`starter-kit/examples/minimal-adev-loop/`](../../starter-kit/examples/minimal-adev-loop/) shows a minimal, tool-agnostic structure.
-- [`docs/adoption-maturity-model.md`](../../docs/adoption-maturity-model.md) helps identify the next missing capability.
+- [`starter-kit/DAY_0.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DAY_0.md) establishes the initial skeleton.
+- [`starter-kit/FIRST_WEEK.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/FIRST_WEEK.md) guides the first complete cycle.
+- [`starter-kit/FIRST_RELEASE.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/FIRST_RELEASE.md) organizes evidence and recovery for the first delivery.
+- [`starter-kit/BASELINE_template.json`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/BASELINE_template.json) provides a neutral seed that must be adapted.
+- [`starter-kit/examples/minimal-adev-loop/`](https://github.com/scanalesespinoza/adev/tree/340f705/framework/starter-kit/examples/minimal-adev-loop) shows a minimal, tool-agnostic structure.
+- [`docs/adoption-maturity-model.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/adoption-maturity-model.md) helps identify the next missing capability.

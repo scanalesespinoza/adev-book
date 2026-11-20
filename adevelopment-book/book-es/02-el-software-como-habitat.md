@@ -156,8 +156,8 @@ Al terminar este capítulo, el lector puede definir un producto desde la persona
 
 ## Puente a la práctica
 
-- El recorrido de adopción comienza en [`starter-kit/DAY_0.md`](../../starter-kit/DAY_0.md).
-- Las decisiones y sus reversiones pueden registrarse mediante [`starter-kit/DECISION_LOG.md`](../../starter-kit/DECISION_LOG.md).
+- El recorrido de adopción comienza en [`starter-kit/DAY_0.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DAY_0.md).
+- Las decisiones y sus reversiones pueden registrarse mediante [`starter-kit/DECISION_LOG.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DECISION_LOG.md).
 - El contrato reutilizable de conocimiento de producto está identificado como un asset pendiente en el [contrato editorial](../../publishing-kit/17-spanish-first-edition-editorial-charter.md); no se inventa en este capítulo antes de su propia iteración técnica.
 
 ## Antecedente editorial

@@ -205,7 +205,7 @@ Al terminar este capítulo, el lector puede utilizar `ADEV.md` como mapa de prin
 
 ## Puente a la práctica
 
-- [`ADEV.md`](../../ADEV.md) es la baseline normativa del repositorio y demuestra el modelo de principios con precedencia.
-- [`starter-kit/BASELINE_template.json`](../../starter-kit/BASELINE_template.json) ofrece una semilla legible por máquinas.
-- [`hardness/01-policy-and-precedence.md`](../../hardness/01-policy-and-precedence.md) desarrolla autoridad y resolución de conflictos.
-- [`docs/evidence-index.md`](../../docs/evidence-index.md) organiza las señales disponibles y mantiene explícita la diferencia entre artefactos observados y resultados inferidos.
+- [`ADEV.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/ADEV.md) es la baseline normativa del repositorio y demuestra el modelo de principios con precedencia.
+- [`starter-kit/BASELINE_template.json`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/BASELINE_template.json) ofrece una semilla legible por máquinas.
+- [`hardness/01-policy-and-precedence.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/01-policy-and-precedence.md) desarrolla autoridad y resolución de conflictos.
+- [`docs/evidence-index.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence-index.md) organiza las señales disponibles y mantiene explícita la diferencia entre artefactos observados y resultados inferidos.

@@ -145,7 +145,7 @@ That is where ADEV begins.
 
 ## First Action
 
-Open [`starter-kit/DAY_0.md`](../../starter-kit/DAY_0.md), choose your repository, and complete the minimum skeleton today. Then use [`starter-kit/examples/minimal-adev-loop/`](../../starter-kit/examples/minimal-adev-loop/) to take one iteration through verification.
+Open [`starter-kit/DAY_0.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DAY_0.md), choose your repository, and complete the minimum skeleton today. Then use [`starter-kit/examples/minimal-adev-loop/`](https://github.com/scanalesespinoza/adev/tree/340f705/framework/starter-kit/examples/minimal-adev-loop) to take one iteration through verification.
 
 Do not close the cycle with “the agent finished.” Close it with evidence another person can understand.
 

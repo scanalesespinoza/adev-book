@@ -216,8 +216,8 @@ After this chapter, the reader can evaluate ADEV without idealization; recognize
 
 ## Bridge to Practice
 
-- [`docs/research-agenda.md`](../../docs/research-agenda.md) turns open questions into an evidence backlog.
-- [`evidence/README.md`](../../evidence/README.md) defines the preferred evidence chain.
-- [`hardness/00-definition-and-scope.md`](../../hardness/00-definition-and-scope.md) clarifies what a hardened agent can and cannot promise.
-- [`hardness/07-compatibility-layer.md`](../../hardness/07-compatibility-layer.md) separates portable doctrine from tool-specific adapters.
-- [`docs/adoption-maturity-model.md`](../../docs/adoption-maturity-model.md) supports gradual increases in capability.
+- [`docs/research-agenda.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/research-agenda.md) turns open questions into an evidence backlog.
+- [`evidence/README.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/evidence/README.md) defines the preferred evidence chain.
+- [`hardness/00-definition-and-scope.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/00-definition-and-scope.md) clarifies what a hardened agent can and cannot promise.
+- [`hardness/07-compatibility-layer.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/07-compatibility-layer.md) separates portable doctrine from tool-specific adapters.
+- [`docs/adoption-maturity-model.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/adoption-maturity-model.md) supports gradual increases in capability.

@@ -170,6 +170,6 @@ After this chapter, the reader can use narration as a sizing heuristic; recogniz
 
 ## Bridge to Practice
 
-- [`starter-kit/examples/minimal-adev-loop/`](../../starter-kit/examples/minimal-adev-loop/README.md) demonstrates a minimum loop with a roadmap, baseline, and iteration instruction.
-- [`starter-kit/OPERATING_RITUALS.md`](../../starter-kit/OPERATING_RITUALS.md) collects continuity, preflight, and bounded-retry rituals.
-- [`docs/case-studies/rollback.md`](../../docs/case-studies/rollback.md) preserves a recovery case and its available evidence.
+- [`starter-kit/examples/minimal-adev-loop/`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/examples/minimal-adev-loop/README.md) demonstrates a minimum loop with a roadmap, baseline, and iteration instruction.
+- [`starter-kit/OPERATING_RITUALS.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/OPERATING_RITUALS.md) collects continuity, preflight, and bounded-retry rituals.
+- [`docs/case-studies/rollback.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/rollback.md) preserves a recovery case and its available evidence.

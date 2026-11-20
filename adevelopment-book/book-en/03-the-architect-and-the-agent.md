@@ -164,6 +164,6 @@ After this chapter, the reader can distinguish execution from authority; organiz
 
 ## Bridge to Practice
 
-- [`hardness/03-human-expectations-contract.md`](../../hardness/03-human-expectations-contract.md) turns human expectations into a consumable contract.
-- [`hardness/04-action-risk-authority-model.md`](../../hardness/04-action-risk-authority-model.md) relates risk to execution authority.
-- [`starter-kit/DECISION_LOG.md`](../../starter-kit/DECISION_LOG.md) preserves decisions and reversals outside temporary conversations.
+- [`hardness/03-human-expectations-contract.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/03-human-expectations-contract.md) turns human expectations into a consumable contract.
+- [`hardness/04-action-risk-authority-model.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/04-action-risk-authority-model.md) relates risk to execution authority.
+- [`starter-kit/DECISION_LOG.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DECISION_LOG.md) preserves decisions and reversals outside temporary conversations.

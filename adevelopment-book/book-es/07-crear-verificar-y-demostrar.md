@@ -196,6 +196,6 @@ Al terminar este capítulo, el lector puede aplicar 50/50 como atención continu
 
 ## Puente a la práctica
 
-- [`starter-kit/QUALITY_CYCLE_checklist.md`](../../starter-kit/QUALITY_CYCLE_checklist.md) organiza la verificación amplia de una iteración.
-- [`starter-kit/FIRST_RELEASE.md`](../../starter-kit/FIRST_RELEASE.md) extiende la evidencia hasta la primera entrega.
-- [`docs/case-studies/ci-cd-recovery.md`](../../docs/case-studies/ci-cd-recovery.md) distingue integración, entrega y despliegue mediante un caso operativo.
+- [`starter-kit/QUALITY_CYCLE_checklist.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/QUALITY_CYCLE_checklist.md) organiza la verificación amplia de una iteración.
+- [`starter-kit/FIRST_RELEASE.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/FIRST_RELEASE.md) extiende la evidencia hasta la primera entrega.
+- [`docs/case-studies/ci-cd-recovery.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/ci-cd-recovery.md) distingue integración, entrega y despliegue mediante un caso operativo.

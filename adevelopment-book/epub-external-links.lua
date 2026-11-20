@@ -1,6 +1,9 @@
 -- EPUB packages cannot retain links to files that live outside the package.
--- Keep repository-relative links in the Markdown canon, but publish them as
--- durable links to the corresponding asset on the canonical GitHub branch.
+-- Keep repository-relative links in the Markdown sources, but publish them as
+-- links to the same asset in this repository at the commit being built, so a
+-- versioned artifact never points at a moving branch.
+
+local ref = os.getenv("GITHUB_SHA") or "main"
 
 function Link(link)
   local target = link.target
@@ -14,8 +17,8 @@ function Link(link)
   end
 
   local view = target:match("/$") and "tree" or "blob"
-  link.target = "https://github.com/scanalesespinoza/adev/"
-    .. view .. "/main/framework/" .. target
+  link.target = "https://github.com/scanalesespinoza/adev-book/"
+    .. view .. "/" .. ref .. "/" .. target
 
   return link
 end

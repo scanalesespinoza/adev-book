@@ -170,6 +170,6 @@ Al terminar este capítulo, el lector puede utilizar la narración como heuríst
 
 ## Puente a la práctica
 
-- [`starter-kit/examples/minimal-adev-loop/`](../../starter-kit/examples/minimal-adev-loop/README.md) muestra un ciclo mínimo con roadmap, baseline e instrucción de iteración.
-- [`starter-kit/OPERATING_RITUALS.md`](../../starter-kit/OPERATING_RITUALS.md) reúne rituales de continuidad, preflight y reintento acotado.
-- [`docs/case-studies/rollback.md`](../../docs/case-studies/rollback.md) conserva un caso de recuperación y su evidencia disponible.
+- [`starter-kit/examples/minimal-adev-loop/`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/examples/minimal-adev-loop/README.md) muestra un ciclo mínimo con roadmap, baseline e instrucción de iteración.
+- [`starter-kit/OPERATING_RITUALS.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/OPERATING_RITUALS.md) reúne rituales de continuidad, preflight y reintento acotado.
+- [`docs/case-studies/rollback.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/rollback.md) conserva un caso de recuperación y su evidencia disponible.

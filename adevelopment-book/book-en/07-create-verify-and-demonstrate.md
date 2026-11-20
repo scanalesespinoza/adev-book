@@ -196,6 +196,6 @@ After this chapter, the reader can apply 50/50 as continuous attention; design v
 
 ## Bridge to Practice
 
-- [`starter-kit/QUALITY_CYCLE_checklist.md`](../../starter-kit/QUALITY_CYCLE_checklist.md) organizes broad iteration verification.
-- [`starter-kit/FIRST_RELEASE.md`](../../starter-kit/FIRST_RELEASE.md) extends evidence through the first delivery.
-- [`docs/case-studies/ci-cd-recovery.md`](../../docs/case-studies/ci-cd-recovery.md) distinguishes integration, delivery, and deployment through an operational case.
+- [`starter-kit/QUALITY_CYCLE_checklist.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/QUALITY_CYCLE_checklist.md) organizes broad iteration verification.
+- [`starter-kit/FIRST_RELEASE.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/FIRST_RELEASE.md) extends evidence through the first delivery.
+- [`docs/case-studies/ci-cd-recovery.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/ci-cd-recovery.md) distinguishes integration, delivery, and deployment through an operational case.

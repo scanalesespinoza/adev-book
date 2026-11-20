@@ -180,10 +180,10 @@ After this chapter, the reader can use Homedir as a proving ground without confu
 
 ## Bridge to Practice
 
-- [`docs/evidence-index.md`](../../docs/evidence-index.md) connects principles to the current evidence shelf.
-- [`docs/evidence/homedir-claim-boundaries.md`](../../docs/evidence/homedir-claim-boundaries.md) separates public evidence, the author's account, and reproduction gaps.
-- [`docs/case-studies/multilingual-drift.md`](../../docs/case-studies/multilingual-drift.md) summarizes multilingual drift.
-- [`docs/case-studies/ci-cd-recovery.md`](../../docs/case-studies/ci-cd-recovery.md) addresses recovery of the delivery path.
-- [`docs/case-studies/performance-evidence.md`](../../docs/case-studies/performance-evidence.md) shows why measurement precedes redesign.
-- [`docs/case-studies/disaster-recovery.md`](../../docs/case-studies/disaster-recovery.md) extends the definition of backup through restoration.
+- [`docs/evidence-index.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence-index.md) connects principles to the current evidence shelf.
+- [`docs/evidence/homedir-claim-boundaries.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence/homedir-claim-boundaries.md) separates public evidence, the author's account, and reproduction gaps.
+- [`docs/case-studies/multilingual-drift.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/multilingual-drift.md) summarizes multilingual drift.
+- [`docs/case-studies/ci-cd-recovery.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/ci-cd-recovery.md) addresses recovery of the delivery path.
+- [`docs/case-studies/performance-evidence.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/performance-evidence.md) shows why measurement precedes redesign.
+- [`docs/case-studies/disaster-recovery.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/disaster-recovery.md) extends the definition of backup through restoration.
 - [Homedir release gates at observed commit `a2baac0`](https://github.com/scanalesespinoza/homedir/blob/a2baac07fc60f025ebcb9aab7c5f794928cbd831/config/docs/governance/RELEASE_GATES.md).
