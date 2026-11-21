@@ -143,10 +143,10 @@ Al terminar este capítulo, el lector puede separar capacidad de autoridad; defi
 
 ## Puente a la práctica
 
-- [`hardness/04-action-risk-authority-model.md`](../../hardness/04-action-risk-authority-model.md) ofrece una clasificación reutilizable de efectos, aprobaciones y evidencia.
-- [`hardness/01-policy-and-precedence.md`](../../hardness/01-policy-and-precedence.md) resuelve conflictos entre políticas y autoridades.
-- [`hardness/03-human-expectations-contract.md`](../../hardness/03-human-expectations-contract.md) convierte intención, alcance e incertidumbre en un contrato verificable.
-- [`starter-kit/BASELINE_template.json`](../../starter-kit/BASELINE_template.json) permite llevar límites y requisitos al repositorio.
+- [`hardness/04-action-risk-authority-model.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/04-action-risk-authority-model.md) ofrece una clasificación reutilizable de efectos, aprobaciones y evidencia.
+- [`hardness/01-policy-and-precedence.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/01-policy-and-precedence.md) resuelve conflictos entre políticas y autoridades.
+- [`hardness/03-human-expectations-contract.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/03-human-expectations-contract.md) convierte intención, alcance e incertidumbre en un contrato verificable.
+- [`starter-kit/BASELINE_template.json`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/BASELINE_template.json) permite llevar límites y requisitos al repositorio.
 
 ## Referencias de seguridad
 

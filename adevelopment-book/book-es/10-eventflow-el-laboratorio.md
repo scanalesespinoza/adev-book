@@ -147,8 +147,8 @@ Al terminar este capítulo, el lector puede interpretar EventFlow como un labora
 
 ## Puente a la práctica
 
-- [`docs/evidence/eventflow-metrics-reproduction.md`](../../docs/evidence/eventflow-metrics-reproduction.md) registra la frontera, comandos y resultados de la auditoría editorial.
-- [`docs/case-studies/evenflow.md`](../../docs/case-studies/evenflow.md) conserva el resumen histórico del experimento y su transición hacia Homedir.
-- [`starter-kit/DECISION_LOG.md`](../../starter-kit/DECISION_LOG.md) ayuda a registrar decisiones y razones durante una entrega.
+- [`docs/evidence/eventflow-metrics-reproduction.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence/eventflow-metrics-reproduction.md) registra la frontera, comandos y resultados de la auditoría editorial.
+- [`docs/case-studies/evenflow.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/evenflow.md) conserva el resumen histórico del experimento y su transición hacia Homedir.
+- [`starter-kit/DECISION_LOG.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DECISION_LOG.md) ayuda a registrar decisiones y razones durante una entrega.
 - [Repositorio público de EventFlow](https://github.com/scanalesespinoza/eventflow).
 - [Whitepaper original de septiembre de 2025](https://www.linkedin.com/pulse/whitepaper-measuring-impact-augmented-development-canales-espinoza-4kw8e).

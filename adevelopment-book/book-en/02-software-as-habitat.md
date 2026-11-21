@@ -156,8 +156,8 @@ After this chapter, the reader can define a product through the person, the prob
 
 ## Bridge to Practice
 
-- The adoption path begins in [`starter-kit/DAY_0.md`](../../starter-kit/DAY_0.md).
-- Decisions and reversals can be recorded through [`starter-kit/DECISION_LOG.md`](../../starter-kit/DECISION_LOG.md).
+- The adoption path begins in [`starter-kit/DAY_0.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DAY_0.md).
+- Decisions and reversals can be recorded through [`starter-kit/DECISION_LOG.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/DECISION_LOG.md).
 - The reusable product-knowledge contract is identified as a pending asset in the [editorial charter](../../publishing-kit/17-spanish-first-edition-editorial-charter.md); this chapter does not invent it before its own technical iteration.
 
 ## Editorial Background

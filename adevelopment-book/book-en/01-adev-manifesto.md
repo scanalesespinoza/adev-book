@@ -142,9 +142,9 @@ After this chapter, the reader can explain ADEV without resorting to promises of
 
 ## Bridge to Practice
 
-- The [normative ADEV practice](../../README.md) contains the portable definitions and contracts that support the book.
-- The [starter kit](../../starter-kit/README.md) turns those principles into a path that can be applied to real repositories.
-- The [evidence index](../../docs/evidence-index.md) separates transferable doctrine from the concrete artifacts that support it.
+- The [normative ADEV practice](https://github.com/scanalesespinoza/adev/blob/340f705/framework/README.md) contains the portable definitions and contracts that support the book.
+- The [starter kit](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/README.md) turns those principles into a path that can be applied to real repositories.
+- The [evidence index](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence-index.md) separates transferable doctrine from the concrete artifacts that support it.
 
 ## Editorial Background
 

@@ -274,11 +274,11 @@ Relaciona la ficha con el capítulo, caso, asset y agenda de investigación corr
 
 ## Estantes de evidencia de esta edición
 
-- [`docs/evidence-index.md`](../../../docs/evidence-index.md) mapea principios a fuentes y casos.
-- [`docs/evidence/eventflow-metrics-reproduction.md`](../../../docs/evidence/eventflow-metrics-reproduction.md) conserva la auditoría de métricas de EventFlow.
-- [`docs/evidence/homedir-claim-boundaries.md`](../../../docs/evidence/homedir-claim-boundaries.md) separa artefactos, relatos y brechas de Homedir.
-- [`docs/case-studies/`](../../../docs/case-studies/) contiene narrativas de fallos y decisiones.
-- [`docs/research-agenda.md`](../../../docs/research-agenda.md) registra preguntas que todavía no pueden cerrarse.
+- [`docs/evidence-index.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence-index.md) mapea principios a fuentes y casos.
+- [`docs/evidence/eventflow-metrics-reproduction.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence/eventflow-metrics-reproduction.md) conserva la auditoría de métricas de EventFlow.
+- [`docs/evidence/homedir-claim-boundaries.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence/homedir-claim-boundaries.md) separa artefactos, relatos y brechas de Homedir.
+- [`docs/case-studies/`](https://github.com/scanalesespinoza/adev/tree/340f705/framework/docs/case-studies) contiene narrativas de fallos y decisiones.
+- [`docs/research-agenda.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/research-agenda.md) registra preguntas que todavía no pueden cerrarse.
 - [`publishing-kit/07-ai-disclosure-and-rights.md`](../../../publishing-kit/07-ai-disclosure-and-rights.md) mantiene el checklist de asistencia, derechos y permisos.
 
 ## Regla final

@@ -197,8 +197,8 @@ Al terminar este capítulo, el lector puede convertir ADEV en un contrato compar
 
 ## Puente a la práctica
 
-- [`ADEV.md`](../../ADEV.md) contiene las reglas canónicas de ramas, coordinación, validación y limpieza.
-- [`starter-kit/OPERATING_RITUALS.md`](../../starter-kit/OPERATING_RITUALS.md) resume rituales antes de iterar y después de fallar.
-- [`starter-kit/FIRST_WEEK.md`](../../starter-kit/FIRST_WEEK.md) propone el primer ciclo de trabajo compartido.
-- [`starter-kit/QUALITY_CYCLE_checklist.md`](../../starter-kit/QUALITY_CYCLE_checklist.md) ayuda a revisar una iteración antes de integrarla.
-- [`docs/adoption-maturity-model.md`](../../docs/adoption-maturity-model.md) permite identificar la siguiente capacidad faltante sin convertir la madurez en una etiqueta.
+- [`ADEV.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/ADEV.md) contiene las reglas canónicas de ramas, coordinación, validación y limpieza.
+- [`starter-kit/OPERATING_RITUALS.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/OPERATING_RITUALS.md) resume rituales antes de iterar y después de fallar.
+- [`starter-kit/FIRST_WEEK.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/FIRST_WEEK.md) propone el primer ciclo de trabajo compartido.
+- [`starter-kit/QUALITY_CYCLE_checklist.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/QUALITY_CYCLE_checklist.md) ayuda a revisar una iteración antes de integrarla.
+- [`docs/adoption-maturity-model.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/adoption-maturity-model.md) permite identificar la siguiente capacidad faltante sin convertir la madurez en una etiqueta.

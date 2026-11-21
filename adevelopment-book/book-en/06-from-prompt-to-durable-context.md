@@ -201,6 +201,6 @@ After this chapter, the reader can recognize context debt; separate temporary in
 
 ## Bridge to Practice
 
-- [`hardness/06-agent-consumption-guide.md`](../../hardness/06-agent-consumption-guide.md) describes how an agent discovers and consumes repository contracts.
-- [`hardness/02-skill-contract-template.md`](../../hardness/02-skill-contract-template.md) provides a vendor-neutral structure for reusable capabilities.
-- [`starter-kit/examples/minimal-adev-loop/prompts/iteration-01.md`](../../starter-kit/examples/minimal-adev-loop/prompts/iteration-01.md) demonstrates a small instruction connected to a baseline and roadmap.
+- [`hardness/06-agent-consumption-guide.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/06-agent-consumption-guide.md) describes how an agent discovers and consumes repository contracts.
+- [`hardness/02-skill-contract-template.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/02-skill-contract-template.md) provides a vendor-neutral structure for reusable capabilities.
+- [`starter-kit/examples/minimal-adev-loop/prompts/iteration-01.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/examples/minimal-adev-loop/prompts/iteration-01.md) demonstrates a small instruction connected to a baseline and roadmap.

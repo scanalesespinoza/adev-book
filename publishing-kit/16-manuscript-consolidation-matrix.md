@@ -6,7 +6,7 @@ This is a reproducible classification of the declared build source, [`adevelopme
 
 The classifications compare files by relative path and SHA-256. `merge-needed` means contents differ and need an editorial decision before either version is altered; it does not mean an automatic merge is safe.
 
-Operational claims mentioned in divergent prose have not been independently verified by this matrix. Any later retained Homedir-derived claim must cite a direct artifact in the canonical [Homedir repository](https://github.com/scanalesespinoza/homedir), following [`ADEV.md`](../ADEV.md#evidence-rules).
+Operational claims mentioned in divergent prose have not been independently verified by this matrix. Any later retained Homedir-derived claim must cite a direct artifact in the canonical [Homedir repository](https://github.com/scanalesespinoza/homedir), following [`ADEV.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/ADEV.md#evidence-rules).
 
 ## Complete file matrix
 

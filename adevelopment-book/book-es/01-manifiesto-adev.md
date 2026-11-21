@@ -142,9 +142,9 @@ Al terminar este capítulo, el lector puede explicar ADEV sin recurrir a promesa
 
 ## Puente a la práctica
 
-- La [práctica normativa de ADEV](../../README.md) contiene las definiciones y contratos portables que sostienen el libro.
-- El [starter kit](../../starter-kit/README.md) convierte esos principios en un recorrido aplicable a repositorios reales.
-- El [índice de evidencia](../../docs/evidence-index.md) separa la doctrina transferible de los artefactos concretos que la respaldan.
+- La [práctica normativa de ADEV](https://github.com/scanalesespinoza/adev/blob/340f705/framework/README.md) contiene las definiciones y contratos portables que sostienen el libro.
+- El [starter kit](https://github.com/scanalesespinoza/adev/blob/340f705/framework/starter-kit/README.md) convierte esos principios en un recorrido aplicable a repositorios reales.
+- El [índice de evidencia](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence-index.md) separa la doctrina transferible de los artefactos concretos que la respaldan.
 
 ## Antecedentes editoriales
 

@@ -180,10 +180,10 @@ Al terminar este capítulo, el lector puede usar Homedir como campo de prueba si
 
 ## Puente a la práctica
 
-- [`docs/evidence-index.md`](../../docs/evidence-index.md) relaciona principios con el estante actual de evidencia.
-- [`docs/evidence/homedir-claim-boundaries.md`](../../docs/evidence/homedir-claim-boundaries.md) separa evidencia pública, relato del autor y brechas de reproducción.
-- [`docs/case-studies/multilingual-drift.md`](../../docs/case-studies/multilingual-drift.md) resume la deriva multilenguaje.
-- [`docs/case-studies/ci-cd-recovery.md`](../../docs/case-studies/ci-cd-recovery.md) trata la recuperación del camino de entrega.
-- [`docs/case-studies/performance-evidence.md`](../../docs/case-studies/performance-evidence.md) muestra por qué medir precede al rediseño.
-- [`docs/case-studies/disaster-recovery.md`](../../docs/case-studies/disaster-recovery.md) extiende la definición de backup hasta la restauración.
+- [`docs/evidence-index.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence-index.md) relaciona principios con el estante actual de evidencia.
+- [`docs/evidence/homedir-claim-boundaries.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence/homedir-claim-boundaries.md) separa evidencia pública, relato del autor y brechas de reproducción.
+- [`docs/case-studies/multilingual-drift.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/multilingual-drift.md) resume la deriva multilenguaje.
+- [`docs/case-studies/ci-cd-recovery.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/ci-cd-recovery.md) trata la recuperación del camino de entrega.
+- [`docs/case-studies/performance-evidence.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/performance-evidence.md) muestra por qué medir precede al rediseño.
+- [`docs/case-studies/disaster-recovery.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/case-studies/disaster-recovery.md) extiende la definición de backup hasta la restauración.
 - [Release gates de Homedir en el commit observado `a2baac0`](https://github.com/scanalesespinoza/homedir/blob/a2baac07fc60f025ebcb9aab7c5f794928cbd831/config/docs/governance/RELEASE_GATES.md).

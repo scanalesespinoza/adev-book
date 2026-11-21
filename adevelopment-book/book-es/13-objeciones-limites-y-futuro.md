@@ -216,8 +216,8 @@ Al terminar este capítulo, el lector puede evaluar ADEV sin idealización; reco
 
 ## Puente a la práctica
 
-- [`docs/research-agenda.md`](../../docs/research-agenda.md) convierte las preguntas abiertas en un backlog de evidencia.
-- [`evidence/README.md`](../../evidence/README.md) define la cadena de prueba preferida.
-- [`hardness/00-definition-and-scope.md`](../../hardness/00-definition-and-scope.md) aclara qué puede y qué no puede prometer un agente endurecido.
-- [`hardness/07-compatibility-layer.md`](../../hardness/07-compatibility-layer.md) separa doctrina portable de adaptadores específicos.
-- [`docs/adoption-maturity-model.md`](../../docs/adoption-maturity-model.md) permite aumentar la capacidad de manera gradual.
+- [`docs/research-agenda.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/research-agenda.md) convierte las preguntas abiertas en un backlog de evidencia.
+- [`evidence/README.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/evidence/README.md) define la cadena de prueba preferida.
+- [`hardness/00-definition-and-scope.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/00-definition-and-scope.md) aclara qué puede y qué no puede prometer un agente endurecido.
+- [`hardness/07-compatibility-layer.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/07-compatibility-layer.md) separa doctrina portable de adaptadores específicos.
+- [`docs/adoption-maturity-model.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/adoption-maturity-model.md) permite aumentar la capacidad de manera gradual.

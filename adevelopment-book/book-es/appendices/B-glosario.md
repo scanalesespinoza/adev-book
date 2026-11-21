@@ -142,7 +142,7 @@ Límite que reduce opciones o contiene efectos para mantener el trabajo dentro d
 
 ### Hardness
 
-Grado en que el comportamiento de un agente está acotado por expectativas explícitas, autoridad, políticas, capacidades limitadas y verificación observable. No significa infalibilidad ni determinismo total. Véase la [definición técnica](../../../hardness/00-definition-and-scope.md).
+Grado en que el comportamiento de un agente está acotado por expectativas explícitas, autoridad, políticas, capacidades limitadas y verificación observable. No significa infalibilidad ni determinismo total. Véase la [definición técnica](https://github.com/scanalesespinoza/adev/blob/340f705/framework/hardness/00-definition-and-scope.md).
 
 ### Hábitat de software
 

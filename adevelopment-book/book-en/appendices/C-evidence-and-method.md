@@ -179,11 +179,11 @@ Connect it to the corresponding chapter, case, asset, and research agenda. If th
 
 ## Evidence Shelves for This Edition
 
-- [`docs/evidence-index.md`](../../../docs/evidence-index.md) maps principles to sources and cases.
-- [`docs/evidence/eventflow-metrics-reproduction.md`](../../../docs/evidence/eventflow-metrics-reproduction.md) preserves the EventFlow metrics audit.
-- [`docs/evidence/homedir-claim-boundaries.md`](../../../docs/evidence/homedir-claim-boundaries.md) separates Homedir artifacts, accounts, and gaps.
-- [`docs/case-studies/`](../../../docs/case-studies/) contains narratives of failures and decisions.
-- [`docs/research-agenda.md`](../../../docs/research-agenda.md) records questions that cannot yet be closed.
+- [`docs/evidence-index.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence-index.md) maps principles to sources and cases.
+- [`docs/evidence/eventflow-metrics-reproduction.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence/eventflow-metrics-reproduction.md) preserves the EventFlow metrics audit.
+- [`docs/evidence/homedir-claim-boundaries.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/evidence/homedir-claim-boundaries.md) separates Homedir artifacts, accounts, and gaps.
+- [`docs/case-studies/`](https://github.com/scanalesespinoza/adev/tree/340f705/framework/docs/case-studies) contains narratives of failures and decisions.
+- [`docs/research-agenda.md`](https://github.com/scanalesespinoza/adev/blob/340f705/framework/docs/research-agenda.md) records questions that cannot yet be closed.
 - [`publishing-kit/07-ai-disclosure-and-rights.md`](../../../publishing-kit/07-ai-disclosure-and-rights.md) maintains the assistance, rights, and permissions checklist.
 
 ## Final Rule
