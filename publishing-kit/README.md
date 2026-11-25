@@ -19,4 +19,5 @@ Editorial, positioning, and release-planning assets for the ADEV book. These doc
 | `17`–`19` | Spanish first-edition track (charter, developmental audit, launch kit) |
 | `20`–`25` | English v2 track (adaptation plan, reviews, copyedit, production, QA, release readiness) |
 | `26` | Release checklist (post-release record) |
+| `27`–`29` | Funding track: 2027 book-fund eligibility and two draft applications (Spanish, dated records) |
 | `submissions/` | Publisher-facing submission packages with provenance contracts |
